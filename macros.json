@@ -1,0 +1,18 @@
+{
+    "isiVersion":"B1",
+    "isiVersionCommit":{
+        "A1":"c4688b20224c6ea9c59f873a2292c98945fd03b2",
+        "A2":"de1bd6977edfbc82f3d4d0f760a9e4a540501d7e",
+        "A3":"a72139d35cd03531f833a3c50f5c27fd098b93e3",
+        "A4":"14c60cb9fa9c36415dc58c4c407bcdc158dc7a93",
+        "B1":"5c2b534b31f1c9eeec2a9e5e36b1977dd6cb7d82"
+    },
+    "docVersion":"<br><br>This file was last reviewed for ISI version ",
+    "oldFeatureDeprecate":"<span class=\"r\">Warning:</span> <span class=\"b\">This feature is deprecated or doesn't exist anymore.</span>",
+    "oldReadd":"<span class=\"r\">Warning:</span> <span class=\"b\">This feature is yet to be readded.</span>",
+    "toBeAdded":"<span class=\"r\">Warning:</span> <span class=\"b\">This feature is yet to be added.</span>",
+    "isInNewCommits":"<span class=\"r\">Warning:</span> <span class=\"b\">This feature is only in the newest commits.</span>",
+    "legacyFeature":"<span class=\"r\">Warning:</span> <span class=\"b\">This feature currently only exists in Legacy ISI.</span>",
+    "code-begin":"<pre><code class=\"syntax-highlight\" data-lang=\"javascript\">",
+    "code-end":"</code></pre>"
+}
